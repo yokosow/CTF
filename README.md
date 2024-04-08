@@ -1,1 +1,1 @@
-Hi guys. here will be the write-ups from Capture The Flag 
+This repo contains a collection of my writeups for various CTF events and challenges.
