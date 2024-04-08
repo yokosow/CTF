@@ -1,0 +1,10 @@
+Description:
+Welcome to our flower gallery! We have the finest variety! We've been down on funding lately, but we heard all the hip companies are making microservices, so we implemented an endpoint to detect flowers!
+Note that the intended solve may take a few tries. Consider testing it in your own environment.
+
+flower-power.chals.kekoam.xyz
+!https://github.com/yokosow/CTF/blob/main/image1.png
+
+We are interested in this page. There we see where we can write the URL, and we remember the SSRF vulnerability.
+!https://github.com/yokosow/CTF/blob/main/image.png
+
